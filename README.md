@@ -35,3 +35,6 @@ Additionally, this task introduces good software development practices such as o
 This task can be extended further by allowing input from external sources (like .txt files or URLs), adding a graphical user interface using Tkinter or Streamlit, or exporting the summary to a file. These improvements provide opportunities to explore file handling, web scraping, or GUI development — all valuable skills in modern software engineering.
 
 In conclusion, this article summarizer task offers a solid foundation in applied NLP, helping interns bridge the gap between theory and real-world usage. It encourages the use of powerful AI models while reinforcing essential programming habits, making it a vital part of the CodTech internship program.
+
+
+<img width="956" height="502" alt="Image" src="https://github.com/user-attachments/assets/a80b9e3e-815f-4b76-a6fc-174dfdd9ac35" />
